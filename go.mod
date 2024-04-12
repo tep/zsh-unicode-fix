@@ -1,3 +1,3 @@
-module zsh-unicode-fix
+module github.com/tep/zsh-unicode-fix
 
-go 1.21.6
+go 1.20
